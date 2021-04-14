@@ -1,0 +1,46 @@
+.whole {
+  background-color:greenyellow;
+}
+.contact {
+  background-color: yellow;
+}
+.contact1 {
+  background-color: yellow;
+  margin-right: 150px;
+}
+.Resgister {
+  padding-left: 500px;
+  font-size: 35px;
+  font-family: fantasy;
+  font-weight: 300;
+  color: black;
+  align-self: center;
+}
+.title {
+  padding-left: 440px;
+  font-weight: 700;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin-top: -55px;
+  color: white;
+}
+.AboutUs {
+  background-color: black;
+  padding-left: 1425px;
+  font-size: 25px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.indiaone{
+ /* background-image: url("loveimage.png"); */
+  margin-left:600px;
+  margin-right:700px;
+  /* padding-bottom: 300px; */
+}
+a{
+     color: red;
+}
+.all{
+  background-image:url("backgroundtwo.jpg");
+}
+.info{
+  background-color: white;
+}
